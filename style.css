@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    background-image: url(./assets/shell.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 700px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+    text-align: center;
+    color: #926239;
+}
+h1 {
+    font-size:40px;
+    line-height: 60px;
+}
+a {
+    color: #926239;
+    text-decoration: none;
+    border: 1px solid #926239;
+    padding: 8px;
+    border-radius: 7px; 
+    line-height: 80px;
+}
