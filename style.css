@@ -30,3 +30,7 @@ a {
     border-radius: 7px; 
     line-height: 80px;
 }
+a:hover {
+    color:white;
+    background: #926239;
+}
