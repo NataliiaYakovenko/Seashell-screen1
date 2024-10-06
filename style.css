@@ -8,6 +8,7 @@ body {
     display: flex;
     align-items: center; 
     justify-content: center;
+    padding: 10px;
     background-image: url(./assets/shell.jpg);
     background-size: cover;
     background-position:center;
